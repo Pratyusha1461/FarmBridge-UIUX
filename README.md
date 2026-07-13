@@ -4,6 +4,10 @@ FarmBridge is a UI/UX concept for a mobile marketplace that connects farmers dir
 
 This project was created as a design case study to explore how a simple and intuitive mobile experience could make buying farm-fresh produce easier.
 
+**Figma Design:**  
+[View Design](https://www.figma.com/design/SyOTENHX9QmSS6Go7Dco3x/FarmBridge-UI-UX?node-id=0-1&t=q0Sn3BVjkpF2MXsV-1
+)
+
 ---
 
 ## Project Goal
@@ -16,12 +20,6 @@ The design focuses on:
 - A simple shopping experience
 - Minimal visual clutter
 - Fresh and approachable branding
-
----
-
-**Links**
-
-- **Figma Design:** https://www.figma.com/design/SyOTENHX9QmSS6Go7Dco3x/FarmBridge-UI-UX?node-id=0-1&t=q0Sn3BVjkpF2MXsV-1
 
 ---
 
