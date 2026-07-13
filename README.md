@@ -19,6 +19,12 @@ The design focuses on:
 
 ---
 
+**Links**
+
+- **Figma Design:** https://www.figma.com/design/SyOTENHX9QmSS6Go7Dco3x/FarmBridge-UI-UX?node-id=0-1&t=q0Sn3BVjkpF2MXsV-1
+
+---
+
 ## Design Process
 
 ### Understanding the Problem
